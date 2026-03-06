@@ -1,6 +1,6 @@
 # Manesh Thiagarajan
 
-**Engineering Manager | AI Infrastructure & Developer Tooling | Building intelligent systems that scale engineering orgs**
+** Manager | AI Infrastructure & Developer Tooling | Building intelligent systems that scale engineering orgs**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cortexark)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://cortexark.substack.com)
@@ -17,7 +17,7 @@ Based in the San Francisco Bay Area. Previously built and scaled teams across pl
 
 ## What I'm Working On
 
-- **LLM Evaluation & Testing Infrastructure** -- Designing frameworks that give engineering teams confidence in LLM-powered features before they ship.
+- **LLM Evaluation &  Infrastructure** -- Designing frameworks that give engineering teams confidence in LLM-powered features before they ship.
 - **AI-Powered Developer Tooling** -- Building internal platforms that use code intelligence and LLMs to accelerate developer workflows.
 - **Engineering Leadership & Team Scaling** -- Writing about the systems, processes, and culture that turn small teams into high-performing orgs.
 
