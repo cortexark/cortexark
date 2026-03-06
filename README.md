@@ -38,6 +38,19 @@ A production-grade evaluation framework for LLM applications. Supports LLM-as-Ju
 
 ---
 
+### [rageval](https://github.com/cortexark/rageval) -- RAG Evaluation Framework
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/cortexark/rageval)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat&logoColor=white)](https://github.com/cortexark/rageval)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)](https://github.com/cortexark/rageval)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)](https://github.com/cortexark/rageval)
+
+A production-grade evaluation framework for Retrieval-Augmented Generation systems. Measures retrieval quality (Precision, Recall, F1, MRR, NDCG) and generation quality (faithfulness, relevance, correctness) with LLM-as-Judge scoring and heuristic fallbacks. Built to answer: *"Is this retriever change actually better?"*
+
+**Key capabilities:** retrieval + generation metrics pipeline, DuckDB-backed result storage, cross-run regression detection, CI/CD quality gates, RetrieverHarness for offline evaluation, 91 tests across unit/integration/E2E.
+
+---
+
 ### [devx-ai](https://github.com/cortexark/devx-ai) -- AI Developer Tooling Platform
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/cortexark/devx-ai)
@@ -72,6 +85,7 @@ Research contributions to the evaluation of LLM agent safety. Focused on underst
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge&logoColor=white)
 
 ---
 
