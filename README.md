@@ -1,4 +1,4 @@
-# Manesh Thiagarajan
+
 
 ** Manager | AI Infrastructure & Developer Tooling | Building intelligent systems that scale engineering orgs**
 
